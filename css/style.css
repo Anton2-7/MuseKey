@@ -104,7 +104,6 @@ body {
 }
 .card-wrapper {
 	display: flex;
-	margin-top: 20px;
 	width: 350px;
 	min-width: 260px;
 }
