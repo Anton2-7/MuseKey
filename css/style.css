@@ -104,12 +104,16 @@ body {
 }
 .card-wrapper {
 	display: flex;
+	margin-top: 20px;
 	width: 350px;
 	min-width: 260px;
 }
 .navbar {
 	background: #000;
 
+}
+#footer {
+	padding-top: 30px;
 }
 .nav {
 	background: white;
