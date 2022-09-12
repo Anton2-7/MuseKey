@@ -44,6 +44,7 @@ body {
 }
 .main-content {
 	display: flex;
+	padding-bottom: 10px;
 }
 .carousel-item img {
 	width: 100%;
