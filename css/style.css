@@ -96,6 +96,7 @@ body {
 }
 .main-content {
 	color:black;
+	justify-content: center;
 }
 .navbar {
 	display: flex;
