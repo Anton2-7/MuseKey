@@ -221,6 +221,7 @@ img.card-img-top {
 }
 .content {
 	float: left;
+	justify-content: center
 	
 }
 .carousel-item a{
