@@ -53,6 +53,7 @@ body {
 }
 .container {
 	flex-direction: column;
+	overflow-wrap:break-word;
 }
 #container-h {
 	display: flex;
@@ -94,11 +95,7 @@ body {
 	padding-top: 4px;
 }
 .main-content {
-	
-	flex-wrap:wrap ;
 	color:black;
-	justify-content: center;
-	
 }
 .navbar {
 	display: flex;
