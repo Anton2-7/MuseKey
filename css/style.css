@@ -140,6 +140,8 @@ body {
 	top: 0px;
 	left: 0px;
 	overflow-y: scroll;
+	overflow-x: hidden;
+
 }
 .button {
 	background-color: #FF4500;
